@@ -11,7 +11,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const meta = {
     title: "Akshay G Nambiar - Developer, Absurdist, Creator and product Buider",
     description: `I've been developing websites for 5 years straight. Get in touch with me to know more.`,
-    image: "/avatar.png",
+    image: "/Akshay3.png",
     type: "website",
     ...customMeta,
   };
