@@ -110,7 +110,7 @@ const userData = {
     twitter: "https://twitter.com/",
     linkedin: "https://linkedin.com/in/akshay-g-7474",
     github: "https://github.com/AkshayGNambiar",
-    facebook: "https://facebook.com/AkshayGNambiar",
+    facebook: "https://www.facebook.com/profile.php?id=100091243044992",
     peerlist: "https://peerlist.io/",
   },
 };
