@@ -22,7 +22,7 @@ const ChatPop = () => {
       {isChatOpen && (
         <div className="fixed bottom-20 right-5 w-80 h-96 bg-white rounded-lg shadow-lg overflow-hidden">
           <iframe
-            src="https://www.chatbase.co/chatbot-iframe/wdz6FxNoGkbk_0dG9xb8R"
+            src="https://www.chatbase.co/chatbot-iframe/pUqSU5J4Utxxp-ua2sadp"
             width="100%"
             height="100%"
             frameBorder="0"
